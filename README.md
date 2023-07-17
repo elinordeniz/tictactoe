@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# REACT TIC TAC TOE GAME
 
 This project is a regular Tic Tac Toe Game developed by React, Context, SASS. It is fully responsive
 
